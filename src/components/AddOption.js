@@ -24,6 +24,7 @@ export default class AddOption extends React.Component {
             className="add-option__input"
             type="text" 
             name="option" 
+            placeholder="Type here.."
           />
           <button 
             className="button"
